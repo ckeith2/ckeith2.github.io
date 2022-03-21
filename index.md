@@ -7,9 +7,9 @@ My name is Celeste Keith, and I am a 4th year graduate student at the University
 
 
 
-## 
+
 See my instructions on how to file your taxes while on the NSF GRFP [here](NSF.md).
 
-See my most recent CV [here](CV.md)
+See my most recent CV [here](CV.md).
 See my most recent publications [here](https://inspirehep.net/authors/1614990).
 
